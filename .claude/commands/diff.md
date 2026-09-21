@@ -1,7 +1,7 @@
 ---
 name: diff
 description: "mainブランチとの差分をチェックして、結果をHTMLで出力"
-argument-hint: [ repositoryUrl ] [ branchName ]
+argument-hint: "[ repositoryUrl ] [ branchName ]"
 ---
 
 # ブランチの名称
